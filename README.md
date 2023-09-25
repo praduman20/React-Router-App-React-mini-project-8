@@ -17,7 +17,7 @@ Installation: npm install
 
 To Start Server: npm run dev
 
-To Visit App: http://localhost:5173
+To Visit App: http://localhost:3000
 
 ## License
 
