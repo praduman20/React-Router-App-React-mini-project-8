@@ -1,5 +1,5 @@
 # React mini project 8 - React Router App
-"React Router App: A React application that leverages React Router for seamless navigation between Home, About Us, and Contact Us pages, providing a structured user experience."
+React Router App: A React application that leverages React Router for seamless navigation between Home, About Us, and Contact Us pages, providing a structured user experience.
 
 ## Demo Link - https://react-router-sorted.netlify.app/
 
